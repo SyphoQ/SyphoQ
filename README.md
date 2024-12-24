@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SyphoQ
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me Sypho#8114
+-  Hi, I’m @SyphoQ Also known as Killua,Reject?,4ux9
+- im currently learning c++ & python
+- only contact for issues or questions
 
 <!---
 SyphoQ/SyphoQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
